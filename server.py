@@ -53,7 +53,7 @@ def handle_client(conn, addr):
 
 if __name__ == "__main__":
     # Define the IP address and port number
-    ip = "10.110.3.132"
+    ip = "192.168.10.109"
     port = 5001
 
     # Create a socket object
